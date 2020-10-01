@@ -60,11 +60,14 @@ typings/
 # next.js build output
 .next
 
+# webstorm IDE files
+.idea
+
+build.*
+
 build/
 bak.*
 *.keystore
-build.pem
-build.zip
 rui.zip
 
 

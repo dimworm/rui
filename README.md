@@ -1,16 +1,16 @@
 # Rui锐
 
-Rui is a RChain light wallet, which is a Chrome extension. The purpose of Rui is to let users import Ethereum Keystore, check REV balance and tranfer REV.
+Rui is a RChain light wallet, which is a Chrome extension. The purpose of Rui is to let users import Ethereum Keystore, check REV balance and transfer REV.
 
 ## Security:
-Rui is safe in that you don't lose control of your own key. Your keystore has a passwrod, and further more your login password is used to encrypt your keystore when it is stored in web browser.
+Rui is safe in that you don't lose control of your own key. Your keystore has a password, and further more your login password is used to encrypt your keystore when it is stored in web browser.
 
-## Attension:
+## Attention:
 Rui is not an ideal place to store your key because it's just a plugin. You have to backup your key somewhere else.
 
 ## _Special Thanks to Tomislav for his great work [**@tgrospic/rnode-grpc-js**](https://github.com/tgrospic/rnode-grpc-js)_
 
-# 中文说明 Chinese discription:
+# 中文说明 Chinese description:
 Rui锐钱包是专门为RChain服务的一款轻钱包，是一个浏览器插件，可与Chrome、360浏览器、百度浏览器、猎豹浏览器、搜狗浏览器、QQ浏览器等配合使用。
 
 ## 设计初衷：
