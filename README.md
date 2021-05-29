@@ -8,6 +8,8 @@ Rui is safe in that you don't lose control of your own key. Your keystore has a 
 ## Attention:
 Rui is not an ideal place to store your key because it's just a plugin. You have to backup your key somewhere else.
 
+### REV Donations may be sent to 111125ufY1754aNBRyDUT63hbejWeLmdQHKQqJHf3w8bm1U9CJqjPd
+
 ## _Special Thanks to Tomislav for his great work [**@tgrospic/rnode-grpc-js**](https://github.com/tgrospic/rnode-grpc-js)_
 
 # 中文说明 Chinese description:
